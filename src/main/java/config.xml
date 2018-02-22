@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+	<paths>
+		<mlpython>
+			<predict>/Users/pedrodurek/Desktop/Projetos/TCC/Machine-Learning/image-recognition/code/label_image.py</predict>
+			<predictbreak>/Users/pedrodurek/Desktop/Projetos/TCC/Machine-Learning/image-recognition/code/label_image_break.py</predictbreak>
+			<scripttrain>/Users/pedrodurek/Desktop/Projetos/TCC/Machine-Learning/image-recognition/code/train.sh</scripttrain>
+		</mlpython>
+		<mlphotos>
+			<predict>/Users/pedrodurek/Desktop/Projetos/TCC/Machine-Learning/image-recognition/predict-photos/</predict>
+			<train>/Users/pedrodurek/Desktop/Projetos/TCC/Machine-Learning/image-recognition/train-photos/</train>
+		</mlphotos>
+	</paths>
+</configuration>
